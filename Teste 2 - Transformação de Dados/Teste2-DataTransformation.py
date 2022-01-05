@@ -1,5 +1,5 @@
 """
-Teste - Programa Extrador de Tabelas
+Teste - Programa Extrator de Tabelas
 """
 import os
 import zipfile
